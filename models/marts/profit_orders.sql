@@ -74,4 +74,4 @@ select
 
 select *
 from final
-order by order_type;
+order by order_type

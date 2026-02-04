@@ -78,4 +78,4 @@ select *
 
 from leaderboard
 
-order by order_date, daily_rank;
+order by order_date, daily_rank
